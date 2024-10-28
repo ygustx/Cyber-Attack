@@ -1,0 +1,4 @@
+aaa,a,2
+aaa,aa,1
+112,3,2
+maça,fruta,1
